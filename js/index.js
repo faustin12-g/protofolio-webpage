@@ -2,7 +2,7 @@
 
 
 var typed = new Typed(".typing",{
-    strings:["","web Disigner", "web Developer", "Future software engineer", "Future Graphic Disigner", "Future cyber analyist"],
+    strings:["","web Disigner", "web Developer", "Software engineer", "Graphic Disigner", "Cyber analyist"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
@@ -21,12 +21,6 @@ men.addEventListener("click",()=>{
     mainContent.classList.toggle("open");
 })
 
-// window.addEventListener("click",()=>{
-//     if(asideLists.classList.contains("open")){
-//         asideLists.classList.remove("open");
-//     }
-
-// })
 
 window.addEventListener("scroll", ()=>{
     if(document.querySelector(".aside").classList.contains("open")){
@@ -58,3 +52,6 @@ function reveal(){
         }
     }
 }
+
+
+
