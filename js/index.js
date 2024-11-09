@@ -2,7 +2,7 @@
 
 
 var typed = new Typed(".typing",{
-    strings:["","web Disigner","Mobile and competer apps", "IT consulting", "Rwanda government services", "AI, VR & AR programming", "And more..."],
+    strings:["","Web Disigning","Mobile app development", "AI, VR & AR programmer", "IoT systems designing"And more..."],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
